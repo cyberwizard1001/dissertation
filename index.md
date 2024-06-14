@@ -2,8 +2,8 @@
 # Crafting counselling companions: Supporting mental health practitioners
 
 
-[Consent form] (https://cyberwizard1001.github.io/dissertation/consent_form)
-[Participant Information Sheet] (https://cyberwizard1001.github.io/dissertation/participant_information_sheet)
+[Consent form](https://cyberwizard1001.github.io/dissertation/consent_form)
+[Participant Information Sheet](https://cyberwizard1001.github.io/dissertation/participant_information_sheet)
 
 ***TL;DR:*** Designing tools for mental health practitioners that will help them somewhere in the typical practitioner's workflow. Attempting to involve practitioners as much as possible in the process to ensure alignment of designed tool with practitioners' needs. 
 
